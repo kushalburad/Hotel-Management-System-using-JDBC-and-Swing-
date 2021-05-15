@@ -1,0 +1,2 @@
+# Hotel-Management-System-using-JDBC-and-Swing-
+It is a complete solution for the  hotel management including JDBC connectivity and  beautiful user interface made using  using  Swing .Its features include  generation of bill as per classes , tracking food orders furthermore, it also tracks which room is currently reserved by the customers and accordingly updates the information in the backend database .
